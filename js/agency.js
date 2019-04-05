@@ -47,4 +47,12 @@
     $('.navbar').removeClass('d-none');
   })
 
+  // Slick script
+    $(document).ready(function(){
+      $('.single-item').slick();
+      setting-name: setting-value
+     });
+   });
+
+
 })(jQuery); // End of use strict
