@@ -597,6 +597,32 @@ header.masthead .intro-text .intro-heading {
   margin-bottom: 5rem;
 }
 
+.YvonneWalker-section {
+  padding-top: 10rem;
+  background-color: #446578;
+}
+
+.YvonneWalker-section p {
+  margin-bottom: 5rem;
+}
+
+.DanielWalker-section {
+  padding-top: 10rem;
+  background: #bfd1e1
+}
+
+.DanielWalker-section p {
+  margin-bottom: 5rem;
+}
+
+.OPEN-section {
+  padding-top: 10rem;
+  background:#446578
+}
+
+.OPEN-section p {
+  margin-bottom: 5rem;
+}
 section#contact {
   background-color: #212529;
   background-image: url("../img/map-image.png");
