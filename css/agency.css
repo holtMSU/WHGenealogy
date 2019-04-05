@@ -587,51 +587,12 @@ header.masthead .intro-text .intro-heading {
 
 }
 
-.Welcome-section {
+.about-section {
   padding-top: 10rem;
-  background-color: #bfd1e1;
-  background-image:
-  backgournd-repeat:
-  background-position:
+  background-color: #bfd1e1; 
 }
 
-.Welcome-section p {
-  margin-bottom: 5rem;
-}
-
-.YvonneWalker-section {
-  padding-top: 10rem;
-  background-color: #e1bfd1;
-  background-image:
-  backgournd-repeat:
-  background-position:
-}
-
-.YvonneWalker-section p {
-  margin-bottom: 5rem;
-}
-
-.DanielWalker-section {
-  padding-top: 10rem;
-  background-color: #bfd1e1;
-  background-image:
-  backgournd-repeat:
-  background-position:
-}
-
-.DanielWalker-section p {
-  margin-bottom: 5rem;
-}
-
-.OPEN-section {
-  padding-top: 10rem;
-  background-color: #e1bfd1;
-  background-image:
-  backgournd-repeat:
-  background-position:
-}
-
-.Open-section p {
+.about-section p {
   margin-bottom: 5rem;
 }
 
