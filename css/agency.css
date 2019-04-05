@@ -599,7 +599,8 @@ header.masthead .intro-text .intro-heading {
 
 .YvonneWalker-section {
   padding-top: 10rem;
-  background-color: #446578;
+  background: -webkit-gradient(linear, left top, left bottom, from(#bfd1e1), color-stop(75%, rgba(22, 22, 22, 0.9)), to(rgba(22, 22, 22, 0.8)));
+  background: linear-gradient(to bottom, #bfd1e1 0%, rgba(22, 22, 22, 0.9) 75%, rgba(22, 22, 22, 0.8) 100%);
 }
 
 .YvonneWalker-section p {
@@ -608,7 +609,8 @@ header.masthead .intro-text .intro-heading {
 
 .DanielWalker-section {
   padding-top: 10rem;
-  background: #bfd1e1
+  background: -webkit-gradient(linear, left top, left bottom, from(#bfd1e1), color-stop(75%, rgba(22, 22, 22, 0.9)), to(rgba(22, 22, 22, 0.8)));
+  background: linear-gradient(to bottom, #bfd1e1 0%, rgba(22, 22, 22, 0.9) 75%, rgba(22, 22, 22, 0.8) 100%);
 }
 
 .DanielWalker-section p {
@@ -617,7 +619,8 @@ header.masthead .intro-text .intro-heading {
 
 .OPEN-section {
   padding-top: 10rem;
-  background:#446578
+  background: -webkit-gradient(linear, left top, left bottom, from(#bfd1e1), color-stop(75%, rgba(22, 22, 22, 0.9)), to(rgba(22, 22, 22, 0.8)));
+  background: linear-gradient(to bottom, #bfd1e1 0%, rgba(22, 22, 22, 0.9) 75%, rgba(22, 22, 22, 0.8) 100%);
 }
 
 .OPEN-section p {
