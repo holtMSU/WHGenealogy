@@ -392,13 +392,13 @@ header.masthead .intro-text .intro-heading {
   width: 2px;
   margin-left: -1.5px;
   content: '';
-  background-color: #e9ecef;
+  background-color: #dcf4fc;
 }
 
 .timeline > li {
   position: relative;
-  min-height: 50px;
-  margin-bottom: 50px;
+  min-height: 100px;
+  margin-bottom: 100px;
 }
 
 .timeline > li:after, .timeline > li:before {
