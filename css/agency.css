@@ -72,12 +72,12 @@ section h3.section-subheading {
 
 .btn-primary {
   background-color: #79bcd2;
-  border-color: #79bcd2;
+  border-color: #66cccc;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
   background-color: #79bcd2 !important;
-  border-color: #79bcd2 !important;
+  border-color: #66cccc !important;
   color: white;
 }
 
