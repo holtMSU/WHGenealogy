@@ -726,11 +726,3 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   background-color: #fed136;
 }
 /*Boostrap Carousel CSS*/
-.carousel .item img {
-   left: -9999px;  /*important */
-   right: -9999px;  /*important */
-   margin: 0 auto;  /*important */
-   max-width: none;  /*important */
-   min-width: 100%;
-   position: absolute;
-}
