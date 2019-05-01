@@ -599,8 +599,8 @@ header.masthead .intro-text .intro-heading {
 
 .YvonneWalker-section {
   padding-top: 10rem;
-  background: -webkit-gradient(linear, left top, left bottom, from(#84AABD), color-stop(75%, rgba(132, 170, 189, 0.9)), to(rgba(22, 22, 22, 0.8)));
-  background: linear-gradient(to bottom, #84AABD 0%, rgba(132, 170, 189, 0.9) 75%, rgba(22, 22, 22, 0.8) 100%);
+  background: -webkit-gradient(linear, left top, left bottom, from(	#4E7B92), color-stop(75%, rgba(78, 123, 146, 0.9)), to(rgba(78, 123, 146, 0.8)));
+  background: linear-gradient(to bottom, 	#4E7B92 0%, rgba(78, 123, 146, 0.9) 75%, rgba(78, 123, 146, 0.8) 100%);
 }
 
 .YvonneWalker-section p {
@@ -609,8 +609,8 @@ header.masthead .intro-text .intro-heading {
 
 .ArnoldWalker-section {
   padding-top: 10rem;
-  background: -webkit-gradient(linear, left top, left bottom, from(#84AABD), color-stop(75%, rgba(22, 22, 22, 0.9)), to(rgba(22, 22, 22, 0.8)));
-  background: linear-gradient(to bottom, #84AABD 0%, rgba(22, 22, 22, 0.9) 75%, rgba(22, 22, 22, 0.8) 100%);
+  background: -webkit-gradient(linear, left top, left bottom, from(#84AABD), color-stop(75%, rgba(132, 170, 189, 0.9)), to(rgba(132, 170, 189, 0.8)));
+  background: linear-gradient(to bottom, #84AABD 0%, rgba(132, 170, 189, 0.9) 75%, rgba(132, 170, 189, 0.8) 100%);
 }
 
 .ArnoldWalker-section p {
@@ -619,8 +619,8 @@ header.masthead .intro-text .intro-heading {
 
 .OPEN-section {
   padding-top: 10rem;
-  background: -webkit-gradient(linear, left top, left bottom, from(#84AABD), color-stop(75%, rgba(22, 22, 22, 0.9)), to(rgba(22, 22, 22, 0.8)));
-  background: linear-gradient(to bottom, #84AABD 0%, rgba(22, 22, 22, 0.9) 75%, rgba(22, 22, 22, 0.8) 100%);
+  background: -webkit-gradient(linear, left top, left bottom, from(	#4E7B92), color-stop(75%, rgba(78, 123, 146, 0.9)), to(rgba(78, 123, 146, 0.8)));
+  background: linear-gradient(to bottom, 	#4E7B92 0%, rgba(78, 123, 146, 0.9) 75%, rgba(78, 123, 146, 0.8) 100%);
 }
 
 .OPEN-section p {
